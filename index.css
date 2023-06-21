@@ -1,6 +1,7 @@
 :root {
   --violet-50: #f5f3ff;
   --violet-500: #8b5cf6;
+  --violet-600: #9333ea;
   --viole-950: #2e1065;
   line-height: -1;
   font-size: 62.5%;
@@ -21,6 +22,7 @@ body {
   background-color: var(--violet-50);
   padding: 1.6rem;
   border-radius: 1.6rem;
+  border: 2px solid #ede9fe;
 }
 .main h1, h2, h3, p, span {
   color: var(--viole-950);
